@@ -1,0 +1,55 @@
+Javagotchi, a hacknjit project
+	Jesse Breuer-Penello
+	Josiah Nieves
+	Stephen Chiu
+	Rob Facella
+	
+Javagotchi is meant to be an ephemeral project for children or young adults to help solidify good habits
+	
+	Features:
+		Simple to use
+	
+	Themes:
+		Cute
+	
+	MiniGames:
+		Feed your pet
+		Wash (?)
+		Walk (?)
+		Talk (?)
+	
+	Art:
+		Retro cutesy
+		Mudkip
+		Facial Features
+		Backgrounds
+			Bedroom
+			Classroom
+			Starry Night Sky
+			Playground
+	
+	Music:
+		Hopefully we get to this point
+	
+	Data Mining:
+		Using Linode services (for now)
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Special thanks to
+	NJIT
+	HackNjit sponsors
+	
